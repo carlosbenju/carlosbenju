@@ -7,7 +7,7 @@
 
 💠 Frontend: HTML | CSS | Handlebars
 
-💠Game Development: Unity
+💠 Game Development: Unity
 
 💠 Other technologies: Git 
 
