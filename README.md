@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Carlos! </h1>
+<h3 align="center"> Junior Backend Developer always looking for something new to learn! </h3>
 
-<!--
-**carlosbenju/carlosbenju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+💠 Backend: NodeJS  |  Express  |  MongoDB  |  Mongoose |   TypeScript  |  Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💠 Frontend: HTML | CSS | Handlebars
+
+💠Game Development: Unity
+
+💠 Other technologies: Git 
+
+<br>
+
+📚 You can check all my projects at https://github.com/carlosbenju?tab=repositories
+
+🕹 If you want, you can try my games at https://enygmas.itch.io/
+
+☎️ Feel free to contact with me carlosbenjumeac99@gmail.com
+
+<h3 align="left">Connect with me: </h3>
+<a href="https://www.linkedin.com/in/carlos-benjumea-cabello-13111615b/" target="_blank"><img src="https://www.marketing-branding.com/wp-content/uploads/2014/02/linkedin-logo-marketingbuilding.png" alt="Linkedin logo" height="30" width="30" /></a> 
+
