@@ -3,7 +3,7 @@
 
 <br>
 
-💠 Backend: NodeJS  |  Express  |  MongoDB  |  Mongoose |   TypeScript  |  Jest
+💠 Backend: Java | Spring Boot | NodeJS  |  Express  |  MongoDB  | Hibernate | Mongoose |   TypeScript  |  Jest
 
 💠 Frontend: HTML | CSS | Handlebars
 
