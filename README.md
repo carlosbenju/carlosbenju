@@ -15,8 +15,6 @@
 
 📚 You can check all my projects at https://github.com/carlosbenju?tab=repositories
 
-🕹 If you want, you can try my games at https://enygmas.itch.io/
-
 ☎️ Feel free to contact with me carlosbenjumeac99@gmail.com
 
 <h3 align="left">Connect with me: </h3>
