@@ -1,19 +1,13 @@
-<h1 align="center"> Hi, I'm Carlos! </h1>
-<h3 align="center"> Junior Backend Developer always looking for something new to learn! </h3>
+<h1 align="center"> Carlos </h1>
+<h3 align="center"> Studying Informatics Engineering </h3>
 
 <br>
 
-💠 Backend: Java | Spring Boot | NodeJS  |  Express  |  MongoDB  | Hibernate | Mongoose |   TypeScript  |  Jest
+💠 UPC | FIB
 
-💠 Frontend: HTML | CSS | Handlebars
-
-💠 Game Development: Unity
-
-💠 Other technologies: Git 
+💠 C / C++
 
 <br>
-
-📚 You can check all my projects at https://github.com/carlosbenju?tab=repositories
 
 ☎️ Feel free to contact with me carlosbenjumeac99@gmail.com
 
